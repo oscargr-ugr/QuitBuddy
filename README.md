@@ -68,3 +68,7 @@ Para el desarrollo de **QuitBuddy**, la disponibilidad de datos es fundamental p
 
 ### Resumen
 Aunque no se cuenta con datos preexistentes, la aplicación permitirá la generación de datos a través de la interacción de los usuarios. Además, se utilizarán fuentes externas y se asegurará el consentimiento del usuario, lo que permitirá construir una base de datos sólida y relevante para mejorar la efectividad de QuitBuddy.
+
+
+## Enlaces
+Para consultar el proceso de configuración inicial, visita el archivo [repo-config.md](./repo-config.md).
