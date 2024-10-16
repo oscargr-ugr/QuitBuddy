@@ -1,9 +1,11 @@
-# Configuración Inicial del Entorno de Desarrollo
-Para la entrega del Objetivo 1 he seguido la documentación proporcionada en el repositorio de la asignatura.
+# Configuración Inicial del Repositorio
+![Creación del Repositorio](./images/repo.png)
+Seleccioné la casilla de crear un README.md.
+Licencia de uso libre GNU General Public License v3.0.
+No seleccioné el formato del archivo .gitignore, por lo que tuve que crearlo más tarde manualmente.
 
-# Generar un par de claves pública y privada
-Usé el comando ssh-keygen para crear una clave pública y otra privada. No comparto el comando completo por motivos de seguridad.
+# Generar un par de claves pública y privada usando ecdsa con sha256
+ssh-keygen -t ecdsa -b 256 -C "oscargr2014@gmail.com"
+![Clave ssh pública](./images/ssh-key.png)
 
-# Creación del repositorio
-La creación del archivo README.md fue realizada automáticamente por GitHub en el momento de iniciar el repositorio. El archivo .gitignore lo añadí más tarde ya que no seleccioné la casilla en primera instancia.
 
