@@ -1,5 +1,5 @@
 # QuitBuddy
-QuitBuddy es una aplicación en la nube diseñada para ayudar a los usuarios a dejar de fumar mediante el seguimiento de su progreso, calculando el número de cigarrillos evitados, el ahorro económico y las mejoras en la salud.
+Muchas personas que intentan dejar de fumar tienen dificultades para mantenerse motivadas a lo largo del tiempo, especialmente cuando los beneficios de dejar el hábito no son inmediatamente visibles. La falta de una forma clara de medir su progreso puede hacer que pierdan de vista los logros alcanzados, aumentando el riesgo de recaídas.
 
 ## Lógica de Negocio de QuitBuddy
 
