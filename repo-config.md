@@ -12,7 +12,11 @@ ssh-keygen -t ecdsa -b 256 -C "oscargr2014@gmail.com"
 
 ![Clave ssh pública](./images/ssh-key.png)
 
-#Configuración de perfil de GitHub
+# Configuración de perfil de GitHub
 
+Edité la Localidad para reflejar que resido en Granada.
+Modificada la empresa a "Universidad de Granada".
+Editada foto de perfil por defecto.
 
+![Datos personales](./datos_pers.png)
 
