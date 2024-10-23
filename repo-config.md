@@ -18,5 +18,5 @@ Edité la Localidad para reflejar que resido en Granada.
 Modificada la empresa a "Universidad de Granada".
 Editada foto de perfil por defecto.
 
-![Datos personales](./datos_pers.png)
+![Datos personales](./images/datos_pers.png)
 
